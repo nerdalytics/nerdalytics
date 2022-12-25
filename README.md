@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://audius.co/fibric" target="_blank">
      <img src="https://img.shields.io/badge/Follow%20Me-Audius-purple">
   </a>
+  <a href="https://nerdalytics.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me-Hashnode-3466F6">
+  </a>
   <a href="https://app.daily.dev/nerdalytics" target="_blank">
     <img align="right" style="padding: .5em;" src="https://api.daily.dev/devcards/e2e4b6abd20040f5afd2c2ad712a808c.png?r=j1a" width="256px" alt="nerdalytics's Dev Card"/>
   </a>
