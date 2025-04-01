@@ -5,9 +5,6 @@ You can click the Preview link to take a look at your changes.
   <a rel="me" href="https://mastodon.social/@nerdalytics" target="_blank">
     <img alt="Mastodon Follow" src="https://img.shields.io/badge/Follow%20Me-Mastodon-blueviolet">
   </a>
-  <a href="https://twitter.com/nerdalytics" target="_blank">
-    <img alt="Twitter Follow" src="https://img.shields.io/badge/Follow%20Me-Twitter-blue">
-  </a>
   <a href="https://audius.co/fibric" target="_blank">
      <img src="https://img.shields.io/badge/Follow%20Me-Audius-purple">
   </a>
