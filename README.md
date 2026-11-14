@@ -6,28 +6,25 @@ nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` 
   <img align="right" src="https://api.daily.dev/devcards/e2e4b6abd20040f5afd2c2ad712a808c.png?r=j1a" width="256px" alt="nerdalytics's Dev Card"/>
 </a>
 
-# 👋 Hi, I'm nerdalytics
+# Hi, I'm nerdalytics
 
-- 💼 **Expert Lead**
-- 🤖 **Claude Code owner**
+I'm an Expert Lead and the Claude Code owner.
 
-### 🤖 After hours
+### After hours
 
-🤓 Nerd and AI enthusiast in my free time. I manage the **Qwen squad on daily.dev** every day.
+I'm a nerd and an AI enthusiast. I manage the Qwen squad on daily.dev every day.
 
-👉 [**Join the Qwen squad on daily.dev**](https://dly.to/YNssJWFodpE)
+[Join the Qwen squad on daily.dev](https://dly.to/YNssJWFodpE)
 
-### 🏡 At home
+### At home
 
-Married, and dad to a cat 🐈 and a dog 🐕.
+I'm married and dad to a cat and a dog.
 
-### 🎧 Side notes
+### Side notes
 
-- 🎮 Console gaming
-- 🎚️ DJ
-- 🐎 Ford Mustang GT500 fan
+I play console games and DJ. I'm also a Ford Mustang GT500 fan.
 
-### 🔗 Elsewhere
+### Elsewhere
 
 [![daily.dev](https://img.shields.io/badge/daily.dev-nerdalytics-CE3DF3?logo=dailydotdev&logoColor=white)](https://app.daily.dev/nerdalytics)
 [![Qwen squad](https://img.shields.io/badge/daily.dev-Qwen%20squad-CE3DF3?logo=dailydotdev&logoColor=white)](https://dly.to/YNssJWFodpE)
