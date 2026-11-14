@@ -10,11 +10,10 @@ nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` 
 
 - 💼 **Expert Lead**
 - 🤖 **Claude Code owner**
-- 🤓 **Nerd**, because I am
 
 ### 🤖 After hours
 
-AI enthusiast in my free time. I manage the **Qwen squad on daily.dev** every day.
+🤓 Nerd, because I am, and AI enthusiast in my free time. I manage the **Qwen squad on daily.dev** every day.
 
 👉 [**Join the Qwen squad on daily.dev**](https://dly.to/YNssJWFodpE)
 
