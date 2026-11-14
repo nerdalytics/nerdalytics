@@ -12,7 +12,7 @@ At [nexum AG](https://nexum.com), I work as Expert Lead and own Claude Code for 
 
 ### After hours
 
-As a nerd and AI enthusiast, I manage the [Qwen squad on daily.dev](https://dly.to/YNssJWFodpE) every day.
+The nerd and AI enthusiast in me manages the [Qwen squad on daily.dev](https://dly.to/YNssJWFodpE) every day.
 
 ### At home
 
