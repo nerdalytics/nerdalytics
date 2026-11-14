@@ -22,7 +22,7 @@ I'm married and dad to a cat and a dog.
 
 ### Side notes
 
-I play console games and DJ. I'm also a Ford Mustang GT500 fan.
+I play console games and DJ. I'm also a Ford Mustang fan.
 
 ### Elsewhere
 
