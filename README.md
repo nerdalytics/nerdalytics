@@ -1,34 +1,39 @@
 <!---
 nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
-  <a rel="me" href="https://mastodon.social/@nerdalytics" target="_blank">
-    <img alt="Mastodon Follow" src="https://img.shields.io/badge/Follow%20Me-Mastodon-blueviolet">
-  </a>
-  <a href="https://audius.co/fibric" target="_blank">
-     <img src="https://img.shields.io/badge/Follow%20Me-Audius-purple">
-  </a>
-  <a href="https://nerdalytics.hashnode.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20Me-Hashnode-3466F6">
-  </a>
-  <a href="https://app.daily.dev/nerdalytics" target="_blank">
-    <img align="right" style="padding: .5em;" src="https://api.daily.dev/devcards/e2e4b6abd20040f5afd2c2ad712a808c.png?r=j1a" width="256px" alt="nerdalytics's Dev Card"/>
-  </a>
 
-<div style="padding: 0 0 0 1em;">
+<a href="https://app.daily.dev/nerdalytics" target="_blank">
+  <img align="right" src="https://api.daily.dev/devcards/e2e4b6abd20040f5afd2c2ad712a808c.png?r=j1a" width="256px" alt="nerdalytics's Dev Card"/>
+</a>
 
-# 👋 Hi
+# 👋 Hi, I'm nerdalytics
 
-*My true passion is DJing, although it was difficult to make a steady income at the start; this led me to become Lead Developer/Solution Architect at [@nexum](https://twitter.com/nexum).*
+- 💼 **Expert Lead**
+- 🤖 **Claude Code owner**
 
-*Despite having several other passions—such as cycling, playing console games, drone piloting—I take solace in knowing that one day my dream of owning a Ford Mustang GT500 will come true!*
+### 🤖 After hours
 
-*My Packt book subscription helps keep me engaged throughout each day with its multitude of reading material.*
+AI enthusiast in my free time. I manage the **Qwen squad on daily.dev** every day.
 
-*Moreover, I am truly blessed to share my home with an incredibly lovable deaf kitty who lights up any room she enters!*
+👉 [**Join the Qwen squad on daily.dev**](https://dly.to/YNssJWFodpE)
 
-</div>
+### 🏡 At home
+
+Married, and dad to a cat 🐈 and a dog 🐕.
+
+### 🎧 Side notes
+
+- 🎚️ DJ
+- 🐎 Ford Mustang GT500 fan
+
+### 🔗 Elsewhere
+
+[![daily.dev](https://img.shields.io/badge/daily.dev-nerdalytics-CE3DF3?logo=dailydotdev&logoColor=white)](https://app.daily.dev/nerdalytics)
+[![Qwen squad](https://img.shields.io/badge/daily.dev-Qwen%20squad-CE3DF3?logo=dailydotdev&logoColor=white)](https://dly.to/YNssJWFodpE)
+<a rel="me" href="https://mastodon.social/@nerdalytics"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-@nerdalytics-6364FF?logo=mastodon&logoColor=white"></a>
+[![Hashnode](https://img.shields.io/badge/Hashnode-blog-2962FF?logo=hashnode&logoColor=white)](https://nerdalytics.hashnode.dev)
+[![Audius](https://img.shields.io/badge/Audius-DJ%20sets-CC0FE0?logo=audius&logoColor=white)](https://audius.co/fibric)
 
 <div align="center">
-  <img src="nerdalytics-logo-gray-transparent.svg" width="128px">
+  <img src="nerdalytics-logo-gray-transparent.svg" width="96px" alt="nerdalytics logo">
 </div>
