@@ -23,6 +23,7 @@ Married, and dad to a cat 🐈 and a dog 🐕.
 
 ### 🎧 Side notes
 
+- 🎮 Console gaming
 - 🎚️ DJ
 - 🐎 Ford Mustang GT500 fan
 
