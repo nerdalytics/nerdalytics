@@ -10,6 +10,7 @@ nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` 
 
 - 💼 **Expert Lead**
 - 🤖 **Claude Code owner**
+- 🤓 **Nerd**, because I am
 
 ### 🤖 After hours
 
