@@ -8,9 +8,9 @@ nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` 
 
 # Hi, I'm nerdalytics
 
-At [nexum AG](https://nexum.com), I work as Expert Lead and own Claude Code for 60+ colleagues. Mentoring and secure software development matter to me, and my mantra is "make it work, make it right, make it fast."
+At [nexum AG](https://nexum.com), I work as Expert Lead and own Claude Code for 60+ colleagues. Mentoring and secure software development matter to me. My mantra is "make it work, make it right, make it fast."
 
-I'm married, dad to a cat and a dog, and a nerd. My AI enthusiasm goes into the [Qwen squad on daily.dev](https://dly.to/YNssJWFodpE), which I manage every day. Other hobbies are console games, DJing, Ford Mustangs and visiting ruins, castles and forts.
+I'm married, dad to a cat and a dog, and a nerd. AI is also a hobby, and I manage the [Qwen squad on daily.dev](https://dly.to/YNssJWFodpE) every day. Other hobbies are console games, DJing, Ford Mustangs and visiting ruins, castles and forts.
 
 ### Elsewhere
 
