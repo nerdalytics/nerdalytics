@@ -8,7 +8,7 @@ nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` 
 
 # Hi, I'm nerdalytics
 
-I'm an Expert Lead at [nexum AG](https://nexum.com) and own Claude Code there. I handle access, training, internal awareness and the budget for 60+ colleagues.
+I'm an Expert Lead at [nexum AG](https://nexum.com) and own Claude Code for 60+ colleagues there.
 
 ### After hours
 
