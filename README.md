@@ -13,7 +13,7 @@ nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` 
 
 ### 🤖 After hours
 
-🤓 Nerd, because I am, and AI enthusiast in my free time. I manage the **Qwen squad on daily.dev** every day.
+🤓 Nerd and AI enthusiast in my free time. I manage the **Qwen squad on daily.dev** every day.
 
 👉 [**Join the Qwen squad on daily.dev**](https://dly.to/YNssJWFodpE)
 
@@ -32,6 +32,7 @@ Married, and dad to a cat 🐈 and a dog 🐕.
 [![daily.dev](https://img.shields.io/badge/daily.dev-nerdalytics-CE3DF3?logo=dailydotdev&logoColor=white)](https://app.daily.dev/nerdalytics)
 [![Qwen squad](https://img.shields.io/badge/daily.dev-Qwen%20squad-CE3DF3?logo=dailydotdev&logoColor=white)](https://dly.to/YNssJWFodpE)
 <a rel="me" href="https://mastodon.social/@nerdalytics"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-@nerdalytics-6364FF?logo=mastodon&logoColor=white"></a>
+[![Bluesky](https://img.shields.io/badge/Bluesky-@nerdalytics-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/nerdalytics.bsky.social)
 [![Hashnode](https://img.shields.io/badge/Hashnode-blog-2962FF?logo=hashnode&logoColor=white)](https://nerdalytics.hashnode.dev)
 [![Audius](https://img.shields.io/badge/Audius-DJ%20sets-CC0FE0?logo=audius&logoColor=white)](https://audius.co/fibric)
 
