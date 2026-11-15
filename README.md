@@ -3,7 +3,7 @@ nerdalytics/nerdalytics is a ✨ special ✨ repository because its `README.md` 
 --->
 
 <a href="https://app.daily.dev/nerdalytics" target="_blank">
-  <img align="right" src="https://api.daily.dev/devcards/e2e4b6abd20040f5afd2c2ad712a808c.png?r=j1a" width="256px" alt="nerdalytics's Dev Card"/>
+  <img align="right" src="devcard.png" width="256px" alt="nerdalytics's Dev Card"/>
 </a>
 
 # Hi, I'm nerdalytics
